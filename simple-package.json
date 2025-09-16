@@ -1,0 +1,19 @@
+{
+  "name": "fantasy-league-server",
+  "version": "1.0.0",
+  "description": "خادم Node.js بسيط لدوري الفانتازي المدرسي",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs"
+  },
+  "keywords": ["nodejs", "express", "fantasy", "school", "league"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
